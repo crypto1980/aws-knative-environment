@@ -1,9 +1,8 @@
 <img width="1420" height="788" alt="image" src="https://github.com/user-attachments/assets/296dc4cd-8454-49b9-83f2-b28ddd25f352" />
 
 
-## AWS Local | Internal Developer Platform
-A reference blueprint for end-to-end automation of infrastructure and AI application deployment using GitLab, Terraform, AWS, Kubernetes (kind), and an LLM-based RAG stack.
-Designed primarily for local development, rapid prototyping, and demo environments, this model ensures fast iteration, reproducibility, and a seamless developer experience. 🐳🤖
+## AWS EC2 | Knative
+Knative Serving builds on Kubernetes to support deploying and serving of applications and functions as serverless containers. Serving is easy to get started with and scales to support advanced scenarios.
 
 
 ⭐  Architecture
